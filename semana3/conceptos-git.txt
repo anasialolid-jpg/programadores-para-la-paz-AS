@@ -1,0 +1,4 @@
+-Repositorio: Carpeta donde se guarda todo el proyecto, también contiene todos los cambuis que se realizan desde la creación del proyecto, se puede manejar de manera local en el PC o remoto en Github.
+-Commit: Es una captura o fotografía de cualquier cambio que se realice en el proyecto, porlo que cada modificación se guarda con un nombre de actividad o tarea y se usa el "git commit -m" 
+-Push: Es el botón de subir o enviar aquello commit que hacemos hacia el repositorio, guardando así los avances del proyecto donde otros pueden ver lo que se ha guardado.
+ 
