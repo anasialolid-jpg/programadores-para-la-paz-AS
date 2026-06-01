@@ -1,0 +1,8 @@
+Ruta 1 (http://localhost:3000):
+El servidor responde correctamente con el texto plano "Servidor activo", confirmando que la raíz del proyecto funciona de manera óptima.
+
+Ruta 2 (http://localhost:3000/saludo):
+El servidor procesa el endpoint de forma exitosa y devuelve el mensaje colectivo "Hola comunidad".
+
+Ruta 3 (http://localhost:3000/mensaje/juan):
+El servidor lee de forma dinámica el parámetro ":nombre" incrustado en la URL y responde personalizando el saludo con el texto "Hola juan".

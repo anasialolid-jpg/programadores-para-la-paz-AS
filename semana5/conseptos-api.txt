@@ -1,0 +1,5 @@
+ ¿Qué hace esta ruta?
+Esta ruta utiliza el método HTTP POST para recibir datos enviados de forma segura por el usuario o cliente hacia el servidor. 
+
+ ¿Para qué podría servir en una aplicación comunitaria?
+En una plataforma o iniciativa ciudadana, esta ruta POST serviría como el canal tecnológico principal para recopilar datos de los usuarios en tiempo real. Por ejemplo, permitiría a los miembros de una comunidad enviar reportes de baches en las calles, denunciar fallas en los servicios públicos, registrar solicitudes de ayuda vecinal o emitir alertas de seguridad ciudadana desde un formulario web o una aplicación móvil para que queden guardadas de forma organizada en la base de datos del servidor.
