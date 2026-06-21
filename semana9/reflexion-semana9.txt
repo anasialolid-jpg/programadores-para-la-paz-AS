@@ -1,0 +1,9 @@
+Como estudiante de programación, considero que la estabilidad y la seguridad en un servidor backend son
+el pilar técnico indispensable para que cualquier plataforma tecnológica comunitaria pueda prosperar. Si un
+servidor es inestable y experimenta caídas frecuentes, interrumpe de forma inmediata los procesos de
+organización ciudadana, dañando gravemente la confianza que los usuarios depositan en el espacio digital.
+Por otro lado, la falta de seguridad operativa o un mal control de logs expone los datos confidenciales
+de los miembros a vulnerabilidades o accesos malintencionados. Desarrollar sistemas robustos usando Node.js
+y Express nos exige, como futuros desarrolladores, aplicar configuraciones limpias y monitoreos constantes.
+Garantizar la continuidad operativa no es solo un requerimiento de código, sino una responsabilidad ética
+para proteger la soberanía y la participación libre de toda la comunidad a largo plazo.
