@@ -1,0 +1,9 @@
+Como estudiante de programación, considero que la seguridad digital es fundamental en las plataformas
+comunitarias porque la infraestructura técnica sostiene directamente los procesos de participación. Si un
+servidor experimenta fallos o accesos no autorizados por una mala configuración, se pierde el recurso más
+valioso del proyecto: la confianza de los ciudadanos que lo utilizan para organizarse. El uso responsable
+de tecnologías abiertas y herramientas como Linux o PostgreSQL nos otorga una gran soberanía tecnológica,
+pero nos exige ser rigurosos en la auditoría del código y en el control de los permisos de acceso. Implementar
+buenas prácticas operativas no es un simple accesorio técnico, sino un compromiso ético para blindar los
+datos sensibles. Solo garantizando un sistema estable y transparente se puede asegurar un espacio digital
+protegido que fomente la colaboración, la rendición de cuentas y el éxito social de la plataforma a largo plazo.

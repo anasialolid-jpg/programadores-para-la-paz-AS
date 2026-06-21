@@ -1,0 +1,6 @@
+Información que muestra cada comando en mi entorno actual:
+- uname -a: Muestra la información completa del sistema operativo y hardware. En mi caso, ejecuto Linux basado en NixOS (kernel versión 6.18.34), con una arquitectura x86_64 (64 bits), compilado en junio de 2026.
+- whoami: Muestra el usuario actual del entorno. En mi terminal, el usuario activo es "runner".
+
+Utilidad al administrar un servidor:
+Conocer estos datos es indispensable para garantizar la estabilidad y compatibilidad del software. Permite saber la arquitectura (64 bits) para instalar los paquetes correctos, verificar que el kernel de NixOS no tenga vulnerabilidades conocidas y confirmar qué usuario (en este caso, 'runner') está ejecutando los procesos, lo que ayuda a auditar los permisos y mitigar riesgos de seguridad operativa en la plataforma.
