@@ -1,0 +1,8 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+La Historia 1 (Reporte de incidencias) y la Historia 2 (Alerta en Telegram para el coordinador).
+2. ¿Por qué son las más importantes?
+Porque constituyen el núcleo mínimo para que la solución funcione (Producto Mínimo Viable).
+3. Definición de Terminado (Definition of Done):
+- Funciona sin errores lógicos.
+- Fue probada de forma manual en simulación.
+- El código limpio quedó guardado y registrado en Git.

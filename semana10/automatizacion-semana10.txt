@@ -1,0 +1,4 @@
+DISEÑO DE AUTOMATIZACIÓN (n8n + Telegram)
+1. Evento: Un nodo Webhook en n8n que se activa cuando un ciudadano envía un formulario de reporte.
+2. Mensaje: "Alerta: Nuevo reporte comunitario recibido. ID: #1042. Estado: Pendiente. Revisar panel corporativo."
+3. Privacidad: Queda prohibido enviar nombres, identificaciones, teléfonos o cualquier dato sensible por seguridad.

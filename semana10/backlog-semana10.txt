@@ -1,0 +1,4 @@
+HISTORIAS DE USUARIO (Ordenadas de Mayor a Menor Prioridad)
+1. Alta Prioridad: Como ciudadano quiero reportar una incidencia comunitaria de forma anónima para dejar evidencia pública del caso sin arriesgar mi seguridad.
+2. Media Prioridad: Como coordinador quiero recibir una alerta automática en Telegram cada vez que se cree un nuevo reporte para revisar la información rápidamente.
+3. Baja Prioridad: Como miembro del equipo quiero consultar el histórico de reportes en un panel para generar estadísticas mensuales de seguimiento.

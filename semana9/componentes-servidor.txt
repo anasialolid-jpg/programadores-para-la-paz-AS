@@ -1,0 +1,9 @@
+Sistema operativo: Es la plataforma de software base (como Linux o NixOS) que gestiona los recursos físicos del hardware, maneja la memoria y permite que los entornos de programación interactúen con la red de forma segura.
+
+Node.js: Es un entorno de ejecución de JavaScript para el backend construido con el motor V8 de Chrome. Permite programar lógica de lado del servidor y manejar múltiples peticiones asíncronas de forma rápida y eficiente.
+
+Aplicación server.js: Es el código fuente de nuestra aplicación donde usamos Express para programar las rutas, definir la lógica de negocio del backend y dictaminar cómo se deben responder las solicitudes de los usuarios.
+
+Puerto: Es una interfaz virtual y canal de comunicación específico (como el 3000) en una dirección IP que permite al sistema operativo enrutar el tráfico de red directamente hacia la aplicación correcta en ejecución.
+
+Logs: Son archivos o registros de texto histórico que almacenan de forma cronológica los eventos, accesos y errores del servidor. Son vitales para auditar la seguridad operativa y diagnosticar fallas críticas rápidamente.
