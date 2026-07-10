@@ -1,0 +1,16 @@
+Entidad: Causa
+Campos principales:
+- id (Número único)
+- titulo (Texto)
+- descripcion (Texto largo)
+- fecha_creacion (Fecha)
+- estado (Texto: Activa / Finalizada)
+Propósito: Guardar y organizar los proyectos o problemáticas comunitarias que la ciudadanía registra para que sean visibles en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (Número único)
+- causa_id (Número / Relación con la entidad Causa)
+- usuario_comunitario (Texto / Seudónimo del usuario)
+- fecha_apoyo (Fecha y hora)
+Propósito: Registrar de manera transparente las interacciones y respaldos que recibe cada causa, permitiendo medir la participación ciudadana sin revelar identidades reales.
