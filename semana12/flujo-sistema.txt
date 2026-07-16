@@ -1,0 +1,5 @@
+1. Creación de la Causa: Un ciudadano líder ingresa a la plataforma web y registra una nueva causa social completando un título y una descripción detallada.
+2. Almacenamiento en Base de Datos: La plataforma procesa el formulario e inserta el registro de la nueva causa dentro de la tabla "Causa" de la base de datos de manera segura.
+3. Registro de Apoyos Ciudadanos: Otros miembros de la comunidad entran al enlace de la causa y añaden su respaldo firmando digitalmente (registrando su nombre).
+4. Conteo de Respaldos: El sistema actualiza en tiempo real el contador público de apoyos vinculados de forma relacional a esa causa específica.
+5. Automatización y Exportación Formal: Al completarse el proceso, el backend extrae las estadísticas, genera un documento PDF formal con la petición y n8n dispara una notificación automática a los canales de comunicación de la comunidad.

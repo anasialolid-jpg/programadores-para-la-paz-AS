@@ -1,0 +1,8 @@
+Evento que activa la automatización: Registro exitoso de una nueva causa en la plataforma web.
+Mensaje enviado (vía n8n / Telegram): "¡Alerta comunitaria! Se ha creado una nueva causa en la plataforma titulada: {titulo_causa}. Únete, lee la propuesta y suma tu apoyo para lograr un cambio real en el vecindario."
+
+Información crítica que NO debe enviarse por motivos de seguridad y privacidad:
+- Números de identificación oficial (cédulas de ciudadanía, contraseñas, pasaportes).
+- Datos de contacto privados (números de teléfono móvil de los firmantes o correos electrónicos personales).
+- Direcciones físicas exactas de residencia de los usuarios.
+- Comentarios personales con opiniones políticas explícitas o de carácter sensible.

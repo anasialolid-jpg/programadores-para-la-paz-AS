@@ -1,0 +1,15 @@
+ENTIDAD: Causa
+Atributos:
+- id: Identificador único numérico (Llave primaria).
+- titulo: Nombre representativo o texto corto de la problemática.
+- descripcion: Texto largo con el desglose de la solicitud.
+- fecha: Marca de tiempo de cuándo se subió la iniciativa.
+Propósito: Funciona para centralizar y almacenar de manera estructurada las propuestas o problemáticas individuales que la comunidad desea visibilizar y resolver.
+
+ENTIDAD: Apoyo
+Atributos:
+- id: Identificador único numérico de la firma (Llave primaria).
+- causa_id: Llave foránea que conecta directamente este apoyo con su respectiva Causa.
+- nombre: Texto con el nombre de la persona que respalda la causa.
+- fecha: Marca de tiempo del momento exacto del voto o respaldo.
+Propósito: Permite recolectar, auditar y contabilizar de manera relacional cada firma o voto ciudadano, asegurando que un apoyo siempre pertenezca a una causa específica del sistema.
